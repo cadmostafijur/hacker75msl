@@ -7,9 +7,9 @@
 - 💞️ Here you find my problem solution of codes.
       (python,c++)........................................
 - 📫 How to reach me:
-         Facebook:::https://www.facebook.com/cadetmostafijur
-         Instagram:::@cadetmostafijur
-         Linkedin:::www.linkedin.com/in/cadetmostafijur
+         Facebook:::https://www.facebook.com/cadmostafijur
+         Instagram:::@cadmostafijur
+         Linkedin:::www.linkedin.com/in/cadmostafijur
          Twitter:::https://twitter.com/cadetmostafijur
          .....................................................................................
 
